@@ -1,3 +1,18 @@
+<div align="center">
+
+<img src="https://github.com/OS-HUBU/.github/blob/main/profile/assets/header.png" style="width:60%">
+
+
+<h1>欢迎来到湖北大学 OS-HUBU 实验室</h1>
+
+</div>
+
+|[**🖥️ OpenTalent**][OpenTalent] <br><br> 开源人才评价与服务平台 | ![][OpenTalent-cover]|
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+
+
+
+
 # **🚩 关于 OS-HUBU**
 
 > 欢迎来到湖北大学 OS-HUBU (OS-HUB) 实验室，这里展示了实验室旗下众多优秀的开源项目。
@@ -79,3 +94,11 @@
 ### https://github.com/OS-HUBU/Thesis-Learning-Column
 
 
+
+
+<!-- LINK GROUP -->
+
+[OpenTalent]: https://github.com/OS-HUBU/opentalent-new
+
+
+[OpenTalent-cover]: https://github.com/OS-HUBU/.github/blob/main/profile/assets/OpenTalent-cover.png
